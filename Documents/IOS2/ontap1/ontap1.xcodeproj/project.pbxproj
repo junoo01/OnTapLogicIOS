@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		185032DD29082F2100DB0C18 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185032DC29082F2100DB0C18 /* main.swift */; };
+		18ACA924290BB92A0005C028 /* bai1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ACA923290BB92A0005C028 /* bai1.swift */; };
+		18ACA926290BC1620005C028 /* bai2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ACA925290BC1620005C028 /* bai2.swift */; };
+		18ACA928290BC7190005C028 /* bai3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ACA927290BC7190005C028 /* bai3.swift */; };
+		18ACA92A290BC80D0005C028 /* bai4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ACA929290BC80D0005C028 /* bai4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		185032D929082F2100DB0C18 /* ontap1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ontap1; sourceTree = BUILT_PRODUCTS_DIR; };
 		185032DC29082F2100DB0C18 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		18ACA923290BB92A0005C028 /* bai1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bai1.swift; sourceTree = "<group>"; };
+		18ACA925290BC1620005C028 /* bai2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bai2.swift; sourceTree = "<group>"; };
+		18ACA927290BC7190005C028 /* bai3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bai3.swift; sourceTree = "<group>"; };
+		18ACA929290BC80D0005C028 /* bai4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bai4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				185032DC29082F2100DB0C18 /* main.swift */,
+				18ACA923290BB92A0005C028 /* bai1.swift */,
+				18ACA925290BC1620005C028 /* bai2.swift */,
+				18ACA927290BC7190005C028 /* bai3.swift */,
+				18ACA929290BC80D0005C028 /* bai4.swift */,
 			);
 			path = ontap1;
 			sourceTree = "<group>";
@@ -120,7 +132,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18ACA928290BC7190005C028 /* bai3.swift in Sources */,
+				18ACA926290BC1620005C028 /* bai2.swift in Sources */,
+				18ACA924290BB92A0005C028 /* bai1.swift in Sources */,
 				185032DD29082F2100DB0C18 /* main.swift in Sources */,
+				18ACA92A290BC80D0005C028 /* bai4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
